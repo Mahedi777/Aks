@@ -1,0 +1,46 @@
+body{}
+.main{width:960px;background:#E1E1E1;}
+.container{}
+.header{}
+.fix{overflow:hidden;}
+#pain{}
+.logo{margin-bottom:15px;}
+.logo img{margin-left: 369px;}
+.mainmenu{margin-left:200px;}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{float:left;}
+.mainmenu ul li a{padding:30px;display:block;text-transform:uppercase;font-weight:bold;
+color:#664443;text-align:center;font-size:20px;}
+.mainmenu ul li a:hover{text-decoration:none;}
+.slider_area{background:#EEEEEE;margin-top:10px;}
+.slider{}
+.slider img{width:700px;margin-left:185px;}
+.button{margin-left: 465px;
+margin-top: -26px;
+}
+.thumbnail{margin-top:10px;margin-left:10px;}
+#Oyshi{background:#fff;width: 704px;
+margin-left: 186px;}
+#ifti{margin-top:5px;float:center;}
+#color h1,p{color:#6C4848;font-weight:bold;}
+#tasauf{background:#fff;margin-left: 168px;
+margin-right: 243px;}
+#tasauf h1{margin-left:85px;}
+#tasauf p{margin-left:100px;}
+.Alfonso{width: 728px;
+margin-left: 169px;background:#fff;}
+#friday h1{color:#6C4848;margin-left:20px;}
+#friday p{color:#6C4848;margin-left:20px;}
+.love{background:#fff;width: 740px;
+margin-left: 158px}
+#inputPassword3{margin-left:10px;}
+#inputEmail3{margin-left:10px;}
+.form-control{margin-left:10px;}
+.form-group .control-label{margin-left:20px;}
+.id{margin-left:20px;}
+.silk h1{color:#6C4848;}
+.silk{background:}
+.pic {margin-bottom:70px;}
+.pic img{margin-top: 117px}
+.footer2{}
+.footer2 img{}
